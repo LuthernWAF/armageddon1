@@ -1,0 +1,4 @@
+35.212.225.56
+projects/armageddon1/global/networks/armageddon1-task2-vpc-p2mt1h
+projects/armageddon1/regions/us-west1/subnetworks/armageddon1-task2-vpc-subnet-p2mt1h
+10.177.1.2
